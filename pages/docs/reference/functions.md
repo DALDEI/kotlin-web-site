@@ -29,7 +29,7 @@ val result = double(2)
 Calling member functions uses the dot notation
 
 ``` kotlin
-Sample().foo() // create instance of class Sample and calls foo
+Sample().foo() // create instance of class Sample and call foo
 ```
 
 ### Infix notation
@@ -71,7 +71,7 @@ Function parameters can have default values, which are used when a corresponding
 other languages.
 
 ``` kotlin
-fun read(b: Array<Byte>, off: Int = 0, len: Int = b.size()) {
+fun read(b: Array<Byte>, off: Int = 0, len: Int = b.size) {
 ...
 }
 ```

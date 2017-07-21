@@ -3,14 +3,14 @@
 
 # Kotlin Nights
 
-A Kotlin Night is a meetup that includes 3-4 talks on Kotlin or related technologies.
+Kotlin Night is a meetup that includes 3-4 talks on Kotlin or related technologies.
 At JetBrains we've organised a few events: 
 [Kotlin Night San Francisco](https://blog.jetbrains.com/kotlin/2016/06/kotlin-night-recordings/) and 
 [Kotlin Night London](https://blog.jetbrains.com/kotlin/2016/11/kotlin-night-in-london-recordings/). 
  
 The community however is asking for more Kotlin Nights and are willing to organise these themselves. Here you would find guidelines and some hints on putting things together. 
 
-Contact us at [alina@jetbrains.com](mailto:alina@jetbrains.com) to get support and inform about your upcoming event.
+Please, [submit your Kotlin Night](https://surveys.jetbrains.com/s3/1eca96c71ee7) to get support and inform about your upcoming event.
 
 ## Guidelines
 
